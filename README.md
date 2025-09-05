@@ -7,7 +7,7 @@ This repository contains **data collection and processing, algorithm model, appl
 
 > *An Interpretable Method and Incremental Learning Technique for Predicting Tunnel Water Inflow Based on Data Augmentation and AHP Improved OP-LightGBM*
 
-Our approach integrates **data augmentation**, **model optimization**, and **online deployment**, offering a high-accuracy, interpretable, and generalizable solution to tunnel water inflow prediction.
+Our approach integrates **data augmentation**, **model optimization**, **explainability**, and **online deployment**, offering a high-accuracy, interpretable, and generalizable solution to tunnel water inflow prediction.
 
 ---
 
